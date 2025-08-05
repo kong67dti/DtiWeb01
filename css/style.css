@@ -1,0 +1,30 @@
+.woo{
+    color: red;
+    display: block;
+    text-align: center;
+
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    background: #34b838;
+    padding: 15px;
+    color: white;
+}
+
+button:hover{
+    background: #d40f0f;
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+}
